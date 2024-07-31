@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Private repository -->
+  <project path="device/xiaomi/surya-miuicamera" name="HinohArata/device_xiaomi_surya-miuicamera" revision="14-qpr3" />
+  <project path="vendor/xiaomi/surya-miuicamera" name="HinohArata/vendor_xiaomi_surya-miuicamera" revision="14-tes" />
+  <project path="kernel/xiaomi/surya" name="HinohArata/kernel-4.14" revision="claire" />
+  <project path="vendor/xiaomi/surya" name="surya-aosp/vendor_xiaomi_surya" revision="aosp" />
+</manifest>
