@@ -1323,4 +1323,5 @@
 
   <include name="snippets/afterlife.xml" />
   <include name="snippets/lineage.xml" />
+  <include name="snippets/private.xml" />
 </manifest>
